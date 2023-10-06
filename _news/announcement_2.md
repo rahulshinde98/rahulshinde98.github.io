@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I just graduated with a Master's degree from Brown! 
+I just graduated with a Master's degree from Brown! :mortar_board:
