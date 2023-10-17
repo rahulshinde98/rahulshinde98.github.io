@@ -7,6 +7,9 @@ nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I find great pleasure in helping younger students grasp a better understanding of concepts in math and physics in the hope that they face fewer obstacles than I did. 
 
-Organize your courses by years, topics, or universities, however you like!
+With that motivation I have held a few teaching assistant positions at Brown University apart from a few short stints of personal mentoring during my undergraduate degree. 
+
+
+
